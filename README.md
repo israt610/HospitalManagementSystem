@@ -1,4 +1,4 @@
-Hospital Management System(HMS)
+Hospital Management System(HMS) in JAVA
 
 The  Hospital Management System is designed  to  streamline and enhance hospital operations by efficiently managing patient records, physician details, room allocations, procedures, medications, appointments, and staff information. This database-driven system ensures smooth handling of hospital workflows, improving patient care and administrative efficiency.
 <br>
@@ -7,28 +7,28 @@ The system will support various hospital functions such as patient admissions, d
 
 🔹 Features:
 <br>
- ▪Patient Management – Store & retrieve patient details.
+ ▪ Patient Management – Store & retrieve patient details.
 <br>
- ▪Appointment Scheduling – Book, reschedule, cancel. 
+ ▪ Appointment Scheduling – Book, reschedule, cancel. 
 <br>
- ▪Doctor & Nurse Management – Assign roles & departments.
+ ▪ Doctor & Nurse Management – Assign roles & departments.
 <br>
- ▪Medication Tracking – Monitor prescriptions & stock. 
+ ▪ Medication Tracking – Monitor prescriptions & stock. 
 <br>
- ▪Room Allocation – Assign, track, and manage rooms.
+ ▪ Room Allocation – Assign, track, and manage rooms.
 <br>
- ▪Database Integration – CRUD operations for seamless data handling.
+ ▪ Database Integration – CRUD operations for seamless data handling.
  
 
 🛠️Technologies Used:
 <br>
  ▪ JDK 
  <br>
- ▪Xampp for relational database
+ ▪ Xampp for relational database
  <br>
- ▪JDBC Driver for database connectivity
+ ▪ JDBC Driver for database connectivity
  <br>
- ▪IntelliJ
+ ▪ IntelliJ
 
 🎥Demo (After Running the Project):
 <br>
